@@ -355,7 +355,7 @@ img {
   }
 }
 
-@media (max-width: 375px) {
+@media (max-width: 400px) {
   .showcase-content h1 {
     font-size: 2rem;
     line-height: 1;
