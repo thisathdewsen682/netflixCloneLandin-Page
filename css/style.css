@@ -354,3 +354,14 @@ img {
     text-align: center;
   }
 }
+
+@media (max-width: 375px) {
+  .showcase-content h1 {
+    font-size: 2rem;
+    line-height: 1;
+  }
+  .btn-xl {
+    font-size: 1rem;
+    padding: 1rem 1.2rem;
+  }
+}
